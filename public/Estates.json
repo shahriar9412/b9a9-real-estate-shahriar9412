@@ -1,0 +1,51 @@
+[
+    {
+      "image": "https://i.ibb.co/smMVq9z/what-is-single-family-home-jpeg.webp",
+      "estate_title": "Beautiful Single Family Home",
+      "id": 1,
+      "segment_name": "Single-family homes",
+      "description": "A charming single-family home perfect for families. Features spacious rooms, a backyard, and a garage.",
+      "price": "$400,000",
+      "status": "sale",
+      "area": "2500 sqft",
+      "location": "Suburbia Estates, Anytown",
+      "facilities": ["living room", "backyard", "garage"]
+    },
+    {
+      "image": "https://i.ibb.co/dP2j1QG/modern-townhouse-design-house-168058-939.jpg",
+      "estate_title": "Modern Townhouse",
+      "id": 2,
+      "segment_name": "Townhouses",
+      "description": "Contemporary townhouse with sleek design and urban amenities. Close to downtown and public transportation.",
+      "price": "$300,000",
+      "status": "sale",
+      "area": "1800 sqft",
+      "location": "Downtown Heights, Cityville",
+      "facilities": ["living room", "modern kitchen", "patio"]
+    },
+    {
+      "image": "https://i.ibb.co/dKV6ZNB/Luxury-Trends-1554900758-1554900866.webp",
+      "estate_title": "Luxury Apartment",
+      "id": 3,
+      "segment_name": "Apartments",
+      "description": "Spacious luxury apartment with stunning city views. Amenities include a gym, swimming pool, and concierge service.",
+      "price": "$2,500/month",
+      "status": "rent",
+      "area": "1200 sqft",
+      "location": "Skyline Towers, Metropolis",
+      "facilities": ["living room", "swimming pool", "gym", "concierge"]
+    },
+    {
+      "image": "https://i.ibb.co/ZR9kCqj/john-chapman-house-3.jpg",
+      "estate_title": "Student Housing Complex",
+      "id": 4,
+      "segment_name": "Student Housing",
+      "description": "Modern student housing complex offering furnished units with shared amenities like study lounges and a fitness center.",
+      "price": "$800/month (per bed)",
+      "status": "rent",
+      "area": "Shared accommodations",
+      "location": "Campus Commons, University Town",
+      "facilities": ["study lounge", "fitness center", "shared kitchen"]
+    }
+  ]
+  
